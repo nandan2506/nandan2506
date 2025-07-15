@@ -27,6 +27,20 @@ A modern 2-player browser game built with React, Tailwind CSS, and React Router.
 
 ---
 
+### 🎮 [DonateNow - Crowdfunding Platform](https://github.com/nandan2506/donate.now)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://ddonatenow.netlify.app/)
+
+A full-stack crowdfunding platform that connects donors and campaigners through a secure, scalable, and elegant interface.
+
+---
+
+### 🎮 [ThinkTacToe - A React-based Tic Tac Toe Game](https://github.com/nandan2506/tic-tac-toe)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://thinktactoe.netlify.app)
+
+A modern 2-player browser game built with React, Tailwind CSS, and React Router. Includes game logic, score tracking, and beautiful UI with future plans for AI integration using the Minimax algorithm.
+
+---
+
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nandan-singh-danu-125363343/)
