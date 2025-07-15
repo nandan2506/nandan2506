@@ -67,7 +67,7 @@ A secure, full-stack crowdfunding platform where users can create and donate to 
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nandan-singh-danu-125363343/)  
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat&logo=github&logoColor=white)](https://github.com/nandan2506)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=about.me&logoColor=white)](https://nandanportfoliio.netlify.app)   
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thenandansingh1999@email.com)
 
 ---
