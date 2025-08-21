@@ -2,6 +2,10 @@
 
 I'm a passionate **Full Stack Developer** specializing in the **MERN Stack**. I love building clean, interactive, and scalable web applications with a strong focus on user experience and performance.
 
+<p align="center">
+  <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="400px" />
+</p>
+
 ## 🚀 Tech Stack
 
 ### 👨‍💻 Languages
